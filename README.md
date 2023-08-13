@@ -57,7 +57,7 @@ DISTRO = JUZAWEB
 * [Movie](https://github.com/juzaweb/movie)
 * [Image Slider](https://github.com/juzaweb/image-slider)
 * [Ads Manager](https://github.com/juzaweb/ads-manager)
-* [Demo Site](https://github.com/juzaweb/demo-site)
+* [Demo Site](http://localhost:5000)
 
 
 ## Backend Javascript libraries
